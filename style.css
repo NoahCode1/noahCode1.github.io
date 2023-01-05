@@ -1,0 +1,74 @@
+.interested {
+  color: rgb(0, 33, 180);
+}
+html {
+  background: url("519ae6c1d536b5740746b599bad8aa7b.jpg") repeat-y;
+  
+}
+.currentlylearning {
+  color: rgb(0, 33, 180);
+  font-family:monospace;
+  font-size: 16px;
+}
+.Trash-Script {
+  color: rgb(0, 33, 180);
+  font-family: monospace;
+  font-size: 16px;
+}
+.Password-Manager {
+  color: rgb(0, 33, 180);
+  font-family: monospace;
+  font-size: 16px;
+}
+.Twitter {
+  color: rgb(0, 33, 180);
+  font-family: monospace;
+  font-size: 16px;
+}
+.Github {
+  color: rgb(0, 33, 180);
+  font-family: monospace;
+  font-size: 16px;
+}
+.Trash {
+  color: rgb(0, 33, 180);
+  font-family: monospace;
+  font-size: 16px;
+}
+.Password {
+  color: rgb(0, 33, 180);
+  font-family: monospace;
+  font-size: 16px;
+}
+.I-Make {
+  color: rgb(0, 33, 180);
+  font-family: monospace;
+  font-size: 16px;
+}
+.Noah {
+  color: rgb(0, 33, 180));
+  font-family: monospace;
+  font-size: 16px;
+}
+h1 {
+ color: rgb(0, 33, 180);
+ font-family: monospace;
+}
+h2 {
+ color: rgb(0, 33, 180);
+ font-family: monospace;
+}
+h3 {
+ color: rgb(0, 33, 180);
+ font-family: monospace;
+}
+.box {
+ height: 499px;
+ width: 700px;
+ padding: 20px;
+ margin: 50px;
+ border: 5px solid rgb(0, 33, 180);
+ background-color: rgb(0, 0, 0);
+ border-radius: 50px;
+ 
+}
