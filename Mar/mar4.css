@@ -1,0 +1,30 @@
+html {
+    background-color: rgb(65, 65, 65);
+   }
+   .box{
+    width: 300px;
+    height: 1990px;
+    background-color: rgb(39, 39, 39);
+    position: fixed; top: 0px;
+    position: fixed; bottom: 0px;
+    position: fixed; left: 0px;
+   }
+   .MAR1{
+    color: white;
+    font-family: 'Courier New', Courier, monospaces;
+    position: relative; right: -55px;
+    position: relative; bottom: -27px;
+   }
+   .MAR2{
+    width: 300px;
+    height: 100px;
+    background-color: black;
+    border-radius: 50px;
+   }
+   .mar4{
+    color: white;
+    position: relative; right: -350px;
+    font-family: 'Courier New', Courier, monospaces;
+   }
+   
+   
