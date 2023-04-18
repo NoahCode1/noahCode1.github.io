@@ -1,25 +1,23 @@
-html {
- background-color: rgb(65, 65, 65);
+html{
+ color: blueviolet;
+ background-color: blueviolet;
 }
-.box{
- width: 300px;
- height: 1990px;
- background-color: rgb(39, 39, 39);
- position: fixed; top: 0px;
- position: fixed; bottom: 0px;
- position: fixed; left: 0px;
-}
-.MAR1{
- color: white;
- font-family: 'Courier New', Courier, monospaces;
- position: relative; right: -55px;
- position: relative; bottom: -27px;
-}
-.MAR2{
- width: 300px;
- height: 100px;
- background-color: black;
- border-radius: 50px;
-}
+h1{
+ font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+ font-weight: bolder;
+ position: relative; top: -20px;
 
-
+ 
+}
+li{
+ font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-weight: bolder;
+  position: relative; top: -30px;
+}
+.about{
+ width: 500px;
+ height: 490px;
+ border: 10px solid rgb(255, 255, 255);
+ background-color: rgb(255, 255, 255);
+ border-radius: 10px;
+}
